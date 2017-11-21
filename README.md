@@ -21,6 +21,10 @@
 #   install on linux:
 #     sudo chmod 555 cantus.py
 #     sudo cp cantus.py /usr/bin/cantus
+
+#   You also need to install the following libraries:
+#     python-magic 
+#     pygame
 #
 #   Now you can run from anywhere:
 #   
